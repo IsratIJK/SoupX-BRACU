@@ -494,8 +494,8 @@ Dataset citations:
 
 This project was created by:
 
-- **Israt Jahan Khan** — [github.com/IsratIJK](https://github.com/IsratIJK)
-- **Shahreen Husne Rabbani** — [github.com/Shahreenhusne](https://github.com/Shahreenhusne)
+- **Israt Jahan Khan** - [github.com/IsratIJK](https://github.com/IsratIJK)
+- **Shahreen Husne Rabbani** - [github.com/Shahreenhusne](https://github.com/Shahreenhusne)
 
 ---
 
