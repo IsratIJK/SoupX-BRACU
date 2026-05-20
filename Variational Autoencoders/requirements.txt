@@ -1,0 +1,10 @@
+scanpy
+anndata
+scipy
+seaborn
+numpy
+pandas
+matplotlib
+scikit-learn
+torch
+google-colab
