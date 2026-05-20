@@ -1,0 +1,13 @@
+# Requirements inferred from ZINB.ipynb
+scanpy
+anndata
+scipy
+seaborn
+numpy
+pandas
+matplotlib
+scikit-learn
+torch
+
+# Optional (used only in Colab):
+# google-colab
